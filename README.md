@@ -4,18 +4,25 @@
 * STEP 1. edit cmd/main.go
 * STEP 2. exec cmd/main.go -> `go run cmd/main.go`
 
+
+-------
+
 ### FORMARTS
 
 ```golang
 template.NewMenuBuilder("Chrome", []string{"标签页", "关闭右侧标签页"}).Build()
 ```
-First ARG is process name OR application name
-Second ARG is the menu orders
+🥇 First ARG is process name OR application name
+
+🥈 Second ARG is the menu orders
 
 
 SUCH AS:
+
 ![](./assets/Snipaste_2023-08-16_17-13-02.png)
 
+
+------
 
 ## ⌛ Finished LIST ⌛
 
